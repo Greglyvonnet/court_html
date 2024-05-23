@@ -1,0 +1,51 @@
+/* *{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+header{
+    height: 50px;
+    color: white;
+    background-color: burlywood;
+    text-align: center;
+}
+
+
+nav{
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+
+
+#content{
+    background-color: aqua;
+    width: 1440px;
+    margin: auto;
+    /* justify-content permet de centrer */
+    justify-content: space-evenly;
+}
+
+
+/* main > section{
+height: 50px;
+margin: 80pix;
+
+} */
+
+.sec1{
+    color: white;
+    background-color: blanchedalmond;
+   
+}
+
+
+.sec2{
+    color: white;
+
+}
+
+
+
+
